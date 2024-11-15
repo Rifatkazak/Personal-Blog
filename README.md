@@ -1,14 +1,14 @@
-Personal Blog API
+#Personal Blog API
 
 Project from :https://roadmap.sh/projects/personal-blog
 
 This project is a personal blog API where users can view articles as guests, and the admin can add, edit, or delete articles. Articles are stored in the articles.json file in JSON format.
 
-Features
-Guest Section
+#Features
+#Guest Section
 Home Page: Displays a list of all published articles.
 Article Page: Displays the details of a specific article, including the title, content, and publication date.
-Admin Section
+#Admin Section
 Dashboard: Displays a list of all published articles with options to add, edit, or delete an article.
 Add Article: Allows the admin to add a new article.
 Edit Article: Allows the admin to edit an existing article.
